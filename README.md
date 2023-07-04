@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Yokub
-- 👀 I’m 19
-- 🌱 I’m currently learning Java
 - 📫 You can reach me through yokubbakhodirov@gmail.com
 
 <!---
